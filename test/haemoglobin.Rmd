@@ -1,0 +1,29 @@
+---
+title: "My Favourite Protein"
+author: "Joic Majo"
+date: "2023-07-11"
+output: html_document
+---
+
+## Haemoglobin
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/3d/1GZX_Haemoglobin.png)
+
+
+#### Key points about this protein:
+
+* Haemoglobin comprises **four globin chains**, each containing a haem molecule which reversibly binds to **oxygen**.
+
+* Binding of oxygen to haem alters oxygen affinity by inducing structural changes in the adjacent globin chains.
+
+* This molecular ‘co-operativity’ within haemoglobin is responsible for a sigmoidal-shaped oxygen dissociation curve and is influenced by pH, carbon dioxide, and 2,3-diphosphoglycerate.
+
+* Haemoglobin forms carbamino compounds with carbon dioxide and buffers hydrogen ions within the erythrocyte, so facilitating the carriage of carbon dioxide in blood.
+
+* Abnormal haemoglobins arise from changes in either the globin chains, the iron atom, or from binding of ligands other than oxygen.
+
+
+#### Sources:
+
+* https://www.uniprot.org/uniprotkb/P69905/entry
+* https://en.wikipedia.org/wiki/Hemoglobin 
