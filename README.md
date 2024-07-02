@@ -36,4 +36,7 @@ Thanks for this course!
 
 Favourite molecule - Multimerin-1 (MMRN1)
 
+# Making changes to this file. 
+Testing how to commit changes to this file. My favourite protein is [actin]([url](https://www.uniprot.org/uniprotkb/P60709/entry), which has a key role in the cytoskeleton and movement of cells. 
+Thanks for the course! 
 
