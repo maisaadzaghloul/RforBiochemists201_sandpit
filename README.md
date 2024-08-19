@@ -45,3 +45,7 @@ Thanks for the course!
 
 # Playing in the sandpit
 Hi, I am Daniel and my favorite protein is the [mitochondrial superoxide dismutase](https://www.uniprot.org/uniprotkb/P04179/entry).
+
+
+## Giving it a try
+Very helpful course :)
